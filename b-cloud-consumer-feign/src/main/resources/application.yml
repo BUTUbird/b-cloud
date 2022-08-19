@@ -2,7 +2,7 @@ server:
   port: 8002
 spring:
   application:
-    name: j-cloud-consumer-feign
+    name: b-cloud-consumer-feign
 
 # eureka 配置
 eureka:

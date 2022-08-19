@@ -2,7 +2,7 @@ server:
   port: 8001
 spring:
   application:
-    name: j-cloud-consumer
+    name: b-cloud-consumer
 
 # eureka 配置
 eureka:
